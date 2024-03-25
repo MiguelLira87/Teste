@@ -8,13 +8,31 @@ Eu sou <strong>Miguel Arthur</strong>, <strong>Jogador Profissional de Counter S
 
 <div align="center">
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+<p align="center"><b>Sobre mim</b></p>
 
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+<p align="left">
+  
+- 👦 Eu sou do <strong>Estado do Rio de Janeiro, mas atualmente moro em Pernambuco</strong>
 
-</div>
+- 🔭 <strong>IFPE/SENAC</strong>
+
+- 🌱 <strong>Desenvolvimento de Sistemas e Français</strong>
+
+- 👯 Eu estou procurando colaborar em projetos open source.
+
+- 💬 Pergunte-me sobre <strong>Jogos da NBA e Futebol de todas as Ligas</strong>
+</p>
+<p align="center">📫<b>Meus contatos</br></p>
+
+<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href = "(https://www.facebook.com/profile.php?id=100044270736226&mibextid=ZbWKwL)" target="_blank"> <img align="center" src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
+<a href = "https://www.instagram.com/SEU_INSTA_AQUI" target="_blank"><img align="center" src="https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/SEU_LINKEDIN_AQUI-4b872715a/" target="_blank"><img align="center" src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
+<a href = "SEU_SITE_PESSOAL_AQUI" target="_blank"><img align="center" src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
+</p>
+
+*************
+**Contador De Visitas**
+
+![VisitorCount](https://profile-counter.glitch.me/{Duduxs}/count.svg)
